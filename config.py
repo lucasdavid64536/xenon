@@ -1,12 +1,12 @@
 # Rename this to "config.py"
 
-token = "your-bot-token"
+token = "NTM1MTI5NjI2NjQxNjk0NzIw.DyDp1A.7HG3sXeyfr0B2l4SVYL6K726MMk"
 pasteee_key = ""
 # shard_count and shard_ids can be overwritten by Command Line Arguments
 shard_count = None  # ~ guilds // 1000
 shard_ids = None
 
-prefix = "x!"
+prefix = "b!"
 
 extensions = [
     "cogs.errors",
